@@ -1,0 +1,16 @@
+{
+  "name": "bb-8",
+  "version": "0.0.0",
+  "private": true,
+
+  "author": "Ben Hawker <t-behawk@microsoft.com>",
+
+  "description": "A skittish but loyal astromech",
+
+  "dependencies": {
+  },
+
+  "engines": {
+    "node": "0.10.x"
+  }
+}
